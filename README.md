@@ -1,1 +1,1 @@
-# odin-recipes
+Just practise and type more.
